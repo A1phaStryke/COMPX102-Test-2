@@ -1,0 +1,66 @@
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\bin\Debug\Practest2.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\bin\Debug\Practest2.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\Practest2.Form1.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\GenerateResource.write.1.tlog
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\Practest2.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\documents\visual studio 2010\Projects\Practest2\Practest2\obj\x86\Debug\Practest2.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\bin\Debug\Practest2.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\bin\Debug\Practest2.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\ResolveAssemblyReference.cache
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.Form1.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\GenerateResource.read.1.tlog
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.exe
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.pdb
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\bin\Debug\Practest2.exe
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\bin\Debug\Practest2.pdb
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.Form1.resources
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Visual Studio 2010\Projects\104-Practest2-2013-gallery\Practest2\obj\x86\Debug\GenerateResource.write.1.tlog
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\bin\Debug\Practest2.exe
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\bin\Debug\Practest2.pdb
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.csprojResolveAssemblyReference.cache
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.Form1.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+\\oslo.cms.waikato.ac.nz\home\telphick\Documents\Visual Studio 2010\Projects\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.csproj.GenerateResource.Cache
+H:\104-c#\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.exe
+H:\104-c#\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.pdb
+H:\104-c#\104-PracTest2-gallery\Practest2\bin\Debug\Practest2.exe
+H:\104-c#\104-PracTest2-gallery\Practest2\bin\Debug\Practest2.pdb
+H:\104-c#\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.csprojResolveAssemblyReference.cache
+H:\104-c#\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.Form1.resources
+H:\104-c#\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+H:\104-c#\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.csproj.GenerateResource.Cache
+Q:\groups\cs-tutors\secure\Courses\COMP104\104-17\practests\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.exe
+Q:\groups\cs-tutors\secure\Courses\COMP104\104-17\practests\104-PracTest2-gallery\Practest2\obj\x86\Debug\Practest2.pdb
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.exe.config
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.exe
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.pdb
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.AssemblyReference.cache
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.SuggestedBindingRedirects.cache
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.Form1.resources
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.GenerateResource.cache
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.CoreCompileInputs.cache
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.exe
+C:\Users\telphick\OneDrive - The University of Waikato\Prac Test 2\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.pdb
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.exe.config
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.exe
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\bin\Debug\Practest2.pdb
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.AssemblyReference.cache
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.Form1.resources
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.Properties.Resources.resources
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.GenerateResource.cache
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.exe
+C:\Users\aidan\Downloads\102-PracTest2-5pm\102-PracTest2-5pm\Practest2\obj\x86\Debug\Practest2.pdb
